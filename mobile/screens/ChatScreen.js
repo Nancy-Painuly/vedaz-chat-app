@@ -30,7 +30,6 @@ export default function ChatScreen({ route }) {
   const handleSend = () => {
     const msgData = { text: message, to: user._id };
     socket.emit("message:send", msgData);
-    setMessages((prev) => [...prev, msgData]);
     setMessage("");
   };
 

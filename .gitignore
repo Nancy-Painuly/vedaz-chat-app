@@ -1,1 +1,10 @@
-/node_modules
+# Node modules
+server/node_modules/
+mobile/node_modules/
+
+# Env files
+server/.env
+mobile/.env
+
+# Log files
+*.log
