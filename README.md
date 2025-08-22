@@ -80,3 +80,9 @@ John Doe	               john@test.com                   password123
 -Backend connects to MongoDB Atlas.
 
 -Frontend uses Expo for React Native.
+
+## Demo Video
+
+A short demo video (≤5 min) showing app functionality:
+
+[Watch the Demo Video](https://your-video-link-here)
