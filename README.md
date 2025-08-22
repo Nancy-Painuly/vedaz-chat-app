@@ -85,4 +85,4 @@ John Doe	               john@test.com                   password123
 
 A short demo video (≤5 min) showing app functionality:
 
-[Watch the Demo Video](https://your-video-link-here)
+[Watch the Demo Video](https://drive.google.com/file/d/1E4wORBCPCY58Ze8hMsnvCI4KrvfqmLEY/view?usp=drivesdk)
